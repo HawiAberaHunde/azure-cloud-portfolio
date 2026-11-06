@@ -36,6 +36,10 @@ Currently developing hands-on Microsoft Azure skills and preparing for the AZ-10
 
 - AWS Certified Cloud Practitioner
 - Red Hat Certified System Administrator (RHCSA)
+- VMware Certified Professional - Data Center Virtualization 2024
+- VMware Certified Professional - VMware Cloud 2024 [v2]
+- Associate - Cloud Infrastructure and Services Version 4.0
+- Dell Cloud Infrastructure and Services Foundations 2023
 - Microsoft Azure AZ-104 — In Progress
 
 ## Objective
